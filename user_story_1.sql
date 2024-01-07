@@ -1,1 +1,3 @@
-touch
+SELECT AVG(revenu_fiscal_moyen)
+FROM foyers_fiscaux
+WHERE ville = 'Montpellier';
