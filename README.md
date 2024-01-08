@@ -27,5 +27,3 @@ git commit -m Message de validation
 # Remplacez 'nom_de_votre_branche_locale' par le nom de votre branche
 git push origin nom_de_votre_branche_locale
 ```
-
-Vous pouvez copier ce texte dans un fichier nommé README.md à la racine de votre projet Git. Assurez-vous de remplacer les commentaires et les exemples avec vos propres informations et étapes spécifiques à votre projet. Cela fournira un guide clair pour les utilisateurs de votre dépôt Git.
